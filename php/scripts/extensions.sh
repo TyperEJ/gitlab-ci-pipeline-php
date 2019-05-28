@@ -19,7 +19,8 @@ pgsql \
 soap \
 xml \
 xmlrpc \
-zip
+zip \
+sockets
 "
 
 if [[ $PHP_VERSION == "7.3" || $PHP_VERSION == "7.2" ]]; then
